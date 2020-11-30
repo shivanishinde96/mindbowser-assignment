@@ -1,0 +1,7 @@
+1.Clone the project 
+2.Install node_modules folder by doing npm install
+3.After installation completes install npm install axios react-router-dom reactstrap react-hook-form
+4.Run the project by doing npm start(This will start the server)
+5.Click the add user where users will be added.Route (/adduser) displays a form to add a user.
+6.Route (/userslist) displays the users list and gives two options edit and delete.
+7.On clicking edit option,the user can edit the details and clicking on delete it deletes the user.
